@@ -19,7 +19,7 @@
 # Error file
 $startLocation = Get-Location
 $err=@()
-$errorpath = '\ErrorLogs\7300RealTimePCRSystem_Manual_Uninstall.ps1.txt'
+$errorpath = '\ErrorLogs\7300RealTimePCRSystem_Manual_Uninstall.txt'
 $errFileLocation =  (${env:SystemDrive} + $errorpath)
 
 # Uninstall Variables - 7300 RealTime PCR System

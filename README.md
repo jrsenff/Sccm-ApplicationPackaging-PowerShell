@@ -1,5 +1,5 @@
 # Sccm-ApplicationPackaging-PowerShell
-A collection of SCCM application packaging recipes with template, a How-To Guide, and PowerShell install and uninstall program.
+A collection of SCCM application packaging recipes with template, a How-To Guide, and PowerShell install and uninstall programs.
 
 My collection of application packaging documentation with PowerShell install and uninstall programs developed for use with System Center Configuration Manager 2012 R2.
 
